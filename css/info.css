@@ -3,6 +3,7 @@
     justify-content: center;
     align-items: center;
     gap: 30px;
+    padding-bottom: 44px;
 }
 
 .left__h2 {
@@ -49,13 +50,13 @@
     margin-bottom: 22px;
 }
 
-.info__right{
+.info__right {
     display: flex;
     gap: 15px;
     flex-direction: column;
 }
 
-.info__card{
+.info__card {
     display: flex;
     justify-content: space-between;
     background: white;
@@ -66,16 +67,16 @@
 
 }
 
-.infocard__h3{
-    font-family: 'Rubik',sans-serif;
+.infocard__h3 {
+    font-family: 'Rubik', sans-serif;
     font-size: 17px;
     font-weight: 400;
     line-height: 16px;
     margin-bottom: 5px;
 }
 
-.infocard__txt{
-    font-family: 'Rubik',sans-serif;
+.infocard__txt {
+    font-family: 'Rubik', sans-serif;
     font-size: 14px;
     font-weight: 300;
     line-height: 13px;
@@ -83,7 +84,7 @@
 
 }
 
-.infocard__img{
+.infocard__img {
     width: 55px;
     height: 55px;
     margin-right: 15px;
