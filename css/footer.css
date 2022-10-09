@@ -21,12 +21,13 @@
     display: flex;
     flex-direction: column;
     gap: 15px;
+    align-items: flex-end;
 }
 
 .foot__number {
     font-family: 'Rubik', sans-serif;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 21px;
     color: white;
 }
@@ -37,4 +38,8 @@
     font-weight: 400;
     line-height: 19px;
     color: white;
+}
+
+.foot__link:hover{
+    font-weight: 700;
 }
